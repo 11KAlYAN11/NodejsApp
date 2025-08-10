@@ -1,0 +1,11 @@
+{
+  "name": "realtime-demo-app",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.18.2",
+    "prom-client": "^15.1.3"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
